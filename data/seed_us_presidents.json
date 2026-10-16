@@ -1,0 +1,857 @@
+[
+  {
+    "name": "George Washington",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington_%283x4_cropped%29.jpg/330px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 1st president of the United States. As commander of the Continental Army, _____ led Patriot forces to victory in the American Revolutionary War against the British Empire.",
+    "answer": "George Washington",
+    "details": "George Washington (February 22, 1732 [O.S. February 11, 1731] – December 14, 1799) was a Founding Father and the first president of the United States, serving from 1789 to 1797. As commander of the Continental Army, Washington led Patriot forces to victory in the American Revolutionary War against the British Empire. He is commonly known as the Father of His Country for his role in bringing about American independence.",
+    "highlights": [
+      "He was later elected to the Virginia House of Burgesses, and opposed the oppression of the American colonists by the British Crown.",
+      "When the American Revolutionary War against the British began in 1775, Washington was appointed commander-in-chief of the Continental Army.",
+      "In the resulting Treaty of Paris in 1783, the British acknowledged the sovereign independence of the United States.",
+      "Washington was unanimously elected the first U.S. president by the Electoral College in 1789 and 1792.",
+      "During the French Revolution, he adopted a policy of neutrality while supporting the Jay Treaty with Britain."
+    ],
+    "party": "Unaffiliated",
+    "years_in_office": "1789–1797",
+    "sort_order": 1,
+    "source_url": "https://en.wikipedia.org/wiki/George_Washington"
+  },
+  {
+    "name": "John Adams",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/John_Adams_A18236_%28cropped%29.jpg/330px-John_Adams_A18236_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 2nd president of the United States. Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain.",
+    "answer": "John Adams",
+    "details": "John Adams (October 30, 1735 – July 4, 1826) was a Founding Father and the second president of the United States from 1797 to 1801. Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain. During the latter part of the Revolutionary War and in the early years of the new nation, he served the Continental Congress of the United States as a senior diplomat in Europe. Adams was the first vice president of the United States, serving from 1789 to 1797. He was a dedicated diarist and regularly corresponded with contemporaries, including his wife and advisor Abigail Adams and his friend and rival Thomas Jefferson.",
+    "highlights": [
+      "He helped negotiate the peace treaty with Great Britain, secured Dutch loans for the American government, and was the first United States ambassador to Great Britain.",
+      "Adams's term was dominated by the issue of the French Revolutionary Wars, and his insistence on American neutrality led to fierce criticism from both the Jeffersonian Republicans and from some in his own party, led by his rival Alexander Hamilton.",
+      "Adams signed the controversial Alien and Sedition Acts and built up the Army and Navy in an undeclared naval war with France.",
+      "He was the first president to reside in the White House.",
+      "Adams and his son are the only presidents of the first twelve who never owned slaves."
+    ],
+    "party": "Federalist",
+    "years_in_office": "1797–1801",
+    "sort_order": 2,
+    "source_url": "https://en.wikipedia.org/wiki/John_Adams"
+  },
+  {
+    "name": "Thomas Jefferson",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29_%283x4_cropped%29.jpg/330px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 3rd president of the United States. A prolific writer and philosopher, _____ was the primary author of the Declaration of Independence.",
+    "answer": "Thomas Jefferson",
+    "details": "Thomas Jefferson (April 13 [O.S. April 2], 1743 – July 4, 1826) was a Founding Father and the third president of the United States, serving from 1801 to 1809. A prolific writer and philosopher, Jefferson was the primary author of the Declaration of Independence. His political philosophy formed the basis for Jeffersonian democracy, which dominated early American politics alongside federalism. Jefferson remains celebrated as an icon of American political values, but is also controversial for being a lifelong slave owner.",
+    "highlights": [
+      "He was elected to represent Virginia in the Second Continental Congress in 1775 and selected a member of the Committee of Five.",
+      "Jefferson drafted the Declaration of Independence largely alone, and the document was unanimously passed by the Congress in 1776.",
+      "He was appointed the first U.S. Secretary of State by President George Washington in 1790, helping administer Washington's policy of neutrality in European conflicts.",
+      "Jefferson's presidency assertively defended the nation's shipping and trade interests against Barbary pirates and aggressive British trade policies, promoted a western expansionist policy with the Louisiana Purchase, which doubled the nation's geographic size…",
+      "In 1807, Jefferson implemented the Embargo Act to defend the nation's industries from British threats to U.S. shipping, limit foreign trade, and stimulate the birth of American manufacturing."
+    ],
+    "party": "Democratic-Republican",
+    "years_in_office": "1801–1809",
+    "sort_order": 3,
+    "source_url": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+  },
+  {
+    "name": "James Madison",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/James_Madison_Portrait_1816_%283x4_cropped%29.jpg/330px-James_Madison_Portrait_1816_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 4th president of the United States. Before his presidency, _____ was a statesman and diplomat.",
+    "answer": "James Madison",
+    "details": "James Madison (March 16, 1751 [O.S. March 5, 1750] – June 28, 1836) was a Founding Father and the fourth president of the United States from 1809 to 1817. Before his presidency, Madison was a statesman and diplomat. Madison was popularly acclaimed as the \"Father of the Constitution\" for his pivotal role in drafting and promoting the Constitution of the United States and the Bill of Rights.",
+    "highlights": [
+      "During the early 1790s, Madison opposed the economic program and the accompanying centralization of power favored by Secretary of the Treasury Hamilton.",
+      "Madison served as Jefferson's Secretary of State from 1801 to 1809, during which time he helped convince Jefferson to submit the Louisiana Purchase Treaty for approval by the Senate.",
+      "Motivated by a desire to acquire land held by Britain, Spain, and Native Americans, and after diplomatic protests with a trade embargo failed to end British seizures of American-shipped goods, Madison led the United States into the War of 1812.",
+      "Although the war ended inconclusively in 1815, many Americans viewed it as a successful \"second war of independence\" against Britain which bolstered Madison's popularity.",
+      "Retiring from public office at the end of his presidency in 1817, Madison returned to his plantation, Montpelier, where he died in 1836."
+    ],
+    "party": "Democratic-Republican",
+    "years_in_office": "1809–1817",
+    "sort_order": 4,
+    "source_url": "https://en.wikipedia.org/wiki/James_Madison"
+  },
+  {
+    "name": "James Monroe",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/James_Monroe_White_House_portrait_1819_%28cropped_3x4_close%29.jpg/330px-James_Monroe_White_House_portrait_1819_%28cropped_3x4_close%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 5th president of the United States. He was the last Founding Father to serve as president, as well as the last president of the Virginia dynasty.",
+    "answer": "James Monroe",
+    "details": "James Monroe (April 28, 1758 – July 4, 1831) was a Founding Father and the fifth president of the United States, serving from 1817 to 1825. He was the last Founding Father to serve as president, as well as the last president of the Virginia dynasty. A member of the Democratic-Republican Party, Monroe's presidency coincided with the Era of Good Feelings, in which the First Party System era of American politics concluded. He issued the Monroe Doctrine, a policy aimed at limiting European colonialism in the Americas.",
+    "highlights": [
+      "As President Jefferson's special envoy, Monroe helped negotiate the Louisiana Purchase, through which the United States nearly doubled in size.",
+      "Monroe fell out with his longtime friend James Madison after Madison rejected the Monroe–Pinkney Treaty that Monroe negotiated with Britain.",
+      "As president, he signed the Missouri Compromise, which admitted Missouri as a slave state and banned slavery from territories north of the 36°30′ parallel.",
+      "In the 1819 Adams–Onís Treaty with Spain, the United States secured Florida and established its western border with New Spain.",
+      "In 1823, Monroe announced the United States' opposition to any European intervention in the recently independent countries of the Americas with the Monroe Doctrine, which became a landmark in American foreign policy."
+    ],
+    "party": "Democratic-Republican",
+    "years_in_office": "1817–1825",
+    "sort_order": 5,
+    "source_url": "https://en.wikipedia.org/wiki/James_Monroe"
+  },
+  {
+    "name": "John Quincy Adams",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/John_Quincy_Adams_1858_%283x4_cropped%29.jpg/330px-John_Quincy_Adams_1858_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 6th president of the United States. He previously served as the eighth United States secretary of state from 1817 to 1825; minister to Great Britain, Prussia, and Russia; and senator for Massachusetts.",
+    "answer": "John Quincy Adams",
+    "details": "John Quincy Adams ( ; July 11, 1767 – February 23, 1848) was the sixth president of the United States, serving from 1825 to 1829. He previously served as the eighth United States secretary of state from 1817 to 1825; minister to Great Britain, Prussia, and Russia; and senator for Massachusetts. After his presidency, Adams uniquely returned to Congress as a member of the lower house until his death in 1848. He was the eldest son of John Adams, the second president, and First Lady Abigail Adams. Among his children were Charles Francis Adams Sr. Initially a Federalist like his father, Adams spent his presidency as a member of the Democratic-Republican Party, and later, in the mid-1830s, became affiliated with the Whig Party.",
+    "highlights": [
+      "In 1809, President James Madison, a member of Jefferson's Democratic-Republican Party, appointed Adams as the U.S. minister to Russia, and then to Great Britain, where he led negotiations for the Treaty of Ghent, that ended the War of 1812…",
+      "In that role, Adams negotiated the Adams–Onís Treaty in 1819, which transferred Spanish Florida to the United States.",
+      "He also helped formulate the Monroe Doctrine, which became a key tenet of U.S. foreign policy.",
+      "He remains the only former president to be elected to the chamber.",
+      "He was particularly opposed to the annexation of Texas and the Mexican–American War, which he saw as provocations to extend slavery and its political grip on Congress."
+    ],
+    "party": "Democratic-Republican",
+    "years_in_office": "1825–1829",
+    "sort_order": 6,
+    "source_url": "https://en.wikipedia.org/wiki/John_Quincy_Adams"
+  },
+  {
+    "name": "Andrew Jackson",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Andrew_jackson_head_%283x4_cropped%29.jpg/330px-Andrew_jackson_head_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 7th president of the United States. He rose to fame as a U.S. Army general and served in both houses of the U.S. Congress.",
+    "answer": "Andrew Jackson",
+    "details": "Andrew Jackson (March 15, 1767 – June 8, 1845) was the seventh president of the United States from 1829 to 1837. He rose to fame as a U.S. Army general and served in both houses of the U.S. Congress. His political philosophy, which dominated his presidency, became the basis for the rise of Jacksonian democracy. His legacy is controversial: being praised as an advocate for white working Americans and preserving the union of states, and criticized for his racist policies, particularly towards Native Americans.",
+    "highlights": [
+      "As commander of the Tennessee militia, he led troops in the Creek War of 1813–1814, winning the Battle of Horseshoe Bend and negotiating the Treaty of Fort Jackson, which forced the indigenous Creek to cede vast tracts of the present day states of Alabama and Georgia.",
+      "He later commanded United States forces during the First Seminole War; his campaign was one of the factors that prompted Spain to negotiate the cession of Florida to the United States.",
+      "Jackson briefly served as Florida's first territorial governor before returning to the Senate.",
+      "Jackson ran again in 1828, defeating Adams in a landslide victory despite issues such as his slave trading and \"irregular\" marriage.",
+      "This act, which has been described as ethnic cleansing, displaced tens of thousands of Native Americans from their ancestral homelands east of the Mississippi River."
+    ],
+    "party": "Democratic",
+    "years_in_office": "1829–1837",
+    "sort_order": 7,
+    "source_url": "https://en.wikipedia.org/wiki/Andrew_Jackson"
+  },
+  {
+    "name": "Martin Van Buren",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Martin_Van_Buren_circa_1837_%283x4_cropped%29.jpg/330px-Martin_Van_Buren_circa_1837_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 8th president of the United States. He co-founded the Democratic Party with Andrew Jackson and became Jackson's vice president from 1833 to 1837.",
+    "answer": "Martin Van Buren",
+    "details": "Martin Van Buren (December 5, 1782 – July 24, 1862) was the eighth president of the United States, serving from 1837 to 1841. He co-founded the Democratic Party with Andrew Jackson and became Jackson's vice president from 1833 to 1837.",
+    "highlights": [
+      "He is the only president to have spoken English as a second language.",
+      "Van Buren ran successfully for governor of New York to support Andrew Jackson's candidacy in the 1828 presidential election, but resigned shortly after Jackson was inaugurated so he could accept appointment as Jackson's secretary of state.",
+      "He ultimately resigned to help resolve the Petticoat affair and briefly served as ambassador to the United Kingdom.",
+      "His presidency was further marred by the costly Second Seminole War and his refusal to admit Texas to the Union as a slave state.",
+      "During the American Civil War, Van Buren was a War Democrat who supported the policies of President Abraham Lincoln, a Republican."
+    ],
+    "party": "Democratic",
+    "years_in_office": "1837–1841",
+    "sort_order": 8,
+    "source_url": "https://en.wikipedia.org/wiki/Martin_Van_Buren"
+  },
+  {
+    "name": "William Henry Harrison",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/William_Henry_Harrison_Portrait_%283x4_cropped%29.jpg/330px-William_Henry_Harrison_Portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 9th president of the United States. He died 31 days into his term, making him the shortest serving president and the first president to die in office.",
+    "answer": "William Henry Harrison",
+    "details": "William Henry Harrison (February 9, 1773 – April 4, 1841) was the ninth president of the United States from March to April 1841. He died 31 days into his term, making him the shortest serving president and the first president to die in office. Immediately after his death, Vice President John Tyler took over, ending the constitutional crisis that had been triggered by the question of presidential succession in the U.S. Constitution.",
+    "highlights": [
+      "In 1794, he participated in the Battle of Fallen Timbers, an American military victory that ended the Northwest Indian War.",
+      "In 1811, he led a military force against Tecumseh's confederacy at the Battle of Tippecanoe, for which he earned the nickname \"Old Tippecanoe\".",
+      "He was promoted to major general in the Army during the War of 1812, and led American infantry and cavalry to victory at the Battle of the Thames in Upper Canada.",
+      "He became governor of the newly established Indiana Territory in 1801 and, through multiple treaties with American Indian tribes, he acquired millions of acres for the nation.",
+      "After the War of 1812, he moved to Ohio where, in 1816, he was elected to represent the state's 1st district in the House."
+    ],
+    "party": "Whig",
+    "years_in_office": "1841",
+    "sort_order": 9,
+    "source_url": "https://en.wikipedia.org/wiki/William_Henry_Harrison"
+  },
+  {
+    "name": "John Tyler",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/John_Tyler_%28cropped_3x4%29_%28cropped%29%282%29.png/330px-John_Tyler_%28cropped_3x4%29_%28cropped%29%282%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 10th president of the United States. He was elected vice president on the 1840 Whig ticket with William Henry Harrison, succeeding to the presidency following Harrison's death 31 days after assuming office as president.",
+    "answer": "John Tyler",
+    "details": "John Tyler (March 29, 1790 – January 18, 1862) was the tenth president of the United States, serving from 1841 to 1845, after briefly holding office as the tenth vice president in 1841. He was elected vice president on the 1840 Whig ticket with William Henry Harrison, succeeding to the presidency following Harrison's death 31 days after assuming office as president. Tyler was a stalwart supporter and advocate of states' rights, including regarding slavery, and he adopted nationalistic policies as president only when they did not infringe on the states' powers. His unexpected rise to the presidency posed a threat to the presidential ambitions of Senator Henry Clay and other Whig politicians and left Tyler estranged from both major political parties at the time: the Whigs and the Democrats.",
+    "highlights": [
+      "In the 1820s, the Democratic-Republican Party, at the time the nation's only political party, split into multiple factions.",
+      "President Harrison died just one month after taking office, and Tyler became the first vice president to succeed to the presidency.",
+      "He signed into law some of the Whig-controlled Congress's bills, but he was a strict constructionist and vetoed the party's bills to create a national bank and raise tariff rates.",
+      "He faced a stalemate on domestic policy, though had some foreign-policy achievements, including the Webster–Ashburton Treaty with Britain and the Treaty of Wanghia with China.",
+      "When the American Civil War began in 1861, Tyler at first supported the Peace Conference."
+    ],
+    "party": "Whig",
+    "years_in_office": "1841–1845",
+    "sort_order": 10,
+    "source_url": "https://en.wikipedia.org/wiki/John_Tyler"
+  },
+  {
+    "name": "James K. Polk",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/James_K_Polk_%283x4_cropped%29.jpg/330px-James_K_Polk_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 11th president of the United States. A protégé of Andrew Jackson and a member of the Democratic Party, he was an advocate of American expansionism and Jacksonian democracy.",
+    "answer": "James K. Polk",
+    "details": "James Knox Polk (; November 2, 1795 – June 15, 1849) was the 11th president of the United States, serving from 1845 to 1849. A protégé of Andrew Jackson and a member of the Democratic Party, he was an advocate of American expansionism and Jacksonian democracy. Polk saw Texas join the Union in his first year in office; the annexation of the formerly independent republic, which had declared independence from Mexico, was one of the precipitating causes that soon led the U.S. into the Mexican–American War. The settlement of that war expanded American territory to the Pacific Ocean. During his term, the dispute with the United Kingdom over the Oregon Territory was resolved as well, creating the present U.S.-Canadian border.",
+    "highlights": [
+      "Following his tenure as chairman of the Ways and Means Committee, he became Speaker of the House in 1835, the only person to serve both as Speaker and U.S. president.",
+      "In the general election, he narrowly defeated Henry Clay of the Whig Party and pledged to serve only one term.",
+      "He oversaw U.S. victory in the Mexican–American War, resulting in Mexico's cession of the entirety of the American Southwest.",
+      "A property owner who used slave labor, he kept a plantation in Mississippi and increased his slave ownership during his presidency.",
+      "He helped make the U.S. a nation poised to become a great power, but his policies gravely exacerbated divisions between the free and slave states, setting the stage for the American Civil War."
+    ],
+    "party": "Democratic",
+    "years_in_office": "1845–1849",
+    "sort_order": 11,
+    "source_url": "https://en.wikipedia.org/wiki/James_K._Polk"
+  },
+  {
+    "name": "Zachary Taylor",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Zachary_Taylor_restored_%283x4_cropped%29.jpg/330px-Zachary_Taylor_restored_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 12th president of the United States. Before his presidency, _____ was a career officer in the United States Army, rising to the rank of major general and becoming a national hero for his victories in the Mexican–American War.",
+    "answer": "Zachary Taylor",
+    "details": "Zachary Taylor (November 24, 1784 – July 9, 1850) was the 12th president of the United States, serving from 1849 until his death in 1850. Before his presidency, Taylor was a career officer in the United States Army, rising to the rank of major general and becoming a national hero for his victories in the Mexican–American War. As a result, he won election to the White House despite his vague political beliefs. His top priority as president was to preserve the Union. He died 16 months into his term from a stomach disease. Taylor had the third-shortest presidential term in U.S. history.",
+    "highlights": [
+      "He climbed the ranks of the military, establishing military forts along the Mississippi River and entering the Black Hawk War as a colonel in 1832.",
+      "The Mexican–American War broke out in April 1846, and Taylor defeated Mexican troops commanded by General Mariano Arista at the battles of Palo Alto and Resaca de la Palma, driving Arista's troops out of Texas.",
+      "Taylor then led his troops into Mexico, where they defeated Mexican troops commanded by Pedro de Ampudia at the Battle of Monterrey.",
+      "Taylor became the first president to be elected without having previously held political office.",
+      "Taylor died suddenly of a stomach disease on July 9, 1850, with his administration having accomplished little aside from the ratification of the Clayton–Bulwer Treaty."
+    ],
+    "party": "Whig",
+    "years_in_office": "1849–1850",
+    "sort_order": 12,
+    "source_url": "https://en.wikipedia.org/wiki/Zachary_Taylor"
+  },
+  {
+    "name": "Millard Fillmore",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Fillmore_%28cropped%29.jpg/330px-Fillmore_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 13th president of the United States. He was the last president to be a member of the Whig Party while in the White House, and the last to be neither a Democrat nor a Republican.",
+    "answer": "Millard Fillmore",
+    "details": "Millard Fillmore (January 7, 1800 – March 8, 1874) was the 13th president of the United States, serving from 1850 to 1853. He was the last president to be a member of the Whig Party while in the White House, and the last to be neither a Democrat nor a Republican. A former member of the U.S. House of Representatives, Fillmore was elected vice president in 1848, and succeeded to the presidency when Zachary Taylor died in 1850. Fillmore was instrumental in passing the Compromise of 1850, which led to a brief truce in the battle over the expansion of slavery.",
+    "highlights": [
+      "Throughout his career, Fillmore declared slavery evil but said it was beyond the federal government's power to end it.",
+      "Defeated in bids for the Whig nomination for vice president and for New York governor in 1844, Fillmore was elected Comptroller of New York in 1847, the first to hold that post by election.",
+      "In his capacity as president of the Senate, Fillmore presided over its angry debates as the 31st Congress decided whether to allow slavery in the Mexican Cession.",
+      "The Fugitive Slave Act of 1850, expediting the return of escaped slaves to those who claimed ownership, was a controversial part of the compromise.",
+      "In foreign policy, he supported U.S. Navy expeditions to open trade in Japan, opposed French designs on Hawaii, and was embarrassed by Narciso López's filibuster expeditions to Cuba."
+    ],
+    "party": "Whig",
+    "years_in_office": "1850–1853",
+    "sort_order": 13,
+    "source_url": "https://en.wikipedia.org/wiki/Millard_Fillmore"
+  },
+  {
+    "name": "Franklin Pierce",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29%282%29.jpg/330px-Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 14th president of the United States. A northern Democrat who believed that the abolitionist movement was a fundamental threat to national unity, he alienated anti-slavery groups by signing the Kansas–Nebraska Act and enforcing the Fugitive Slave Act.",
+    "answer": "Franklin Pierce",
+    "details": "Franklin Pierce (November 23, 1804 – October 8, 1869) was the 14th president of the United States, serving from 1853 to 1857. A northern Democrat who believed that the abolitionist movement was a fundamental threat to national unity, he alienated anti-slavery groups by signing the Kansas–Nebraska Act and enforcing the Fugitive Slave Act. Conflict between North and South continued after Pierce's presidency, and, following Abraham Lincoln's victory in the 1860 presidential election, the Southern states seceded, resulting in the American Civil War.",
+    "highlights": [
+      "His private law practice was a success, and he was appointed New Hampshire's U.S. attorney in 1845.",
+      "As president, Pierce attempted to enforce neutral standards for civil service while also satisfying the Democratic Party's diverse elements with patronage, an effort that largely failed and turned many in his party against him.",
+      "He was a Young America expansionist who signed the Gadsden Purchase of land from Mexico and led a failed attempt to acquire Cuba from Spain.",
+      "He signed trade treaties with Britain and Japan and his Cabinet reformed its departments and improved accountability, but political strife during his presidency overshadowed these successes.",
+      "His popularity declined sharply in the Northern states after he supported the Kansas–Nebraska Act, which nullified the Missouri Compromise, while many Southern whites continued to support him."
+    ],
+    "party": "Democratic",
+    "years_in_office": "1853–1857",
+    "sort_order": 14,
+    "source_url": "https://en.wikipedia.org/wiki/Franklin_Pierce"
+  },
+  {
+    "name": "James Buchanan",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/James_Buchanan_%28cropped_3x4%29.jpg/330px-James_Buchanan_%28cropped_3x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 15th president of the United States. A Democrat from Pennsylvania, he upheld a pro-slavery interpretation of the U.S. Constitution that did little to reverse the sectional crisis between the North and South.",
+    "answer": "James Buchanan",
+    "details": "James Buchanan Jr. (April 23, 1791 – June 1, 1868) was the 15th president of the United States, serving from 1857 to 1861. A Democrat from Pennsylvania, he upheld a pro-slavery interpretation of the U.S. Constitution that did little to reverse the sectional crisis between the North and South. In his final months in office, seven Southern states seceded, forming the Confederacy. On April 12, 1861, Confederate forces attacked Fort Sumter, starting the American Civil War.",
+    "highlights": [
+      "During his time as a member of the Federalist Party, Buchanan was elected to the Pennsylvania House of Representatives.",
+      "He won five terms in the U.S. House of Representatives, aligning with the Democratic Party of Andrew Jackson.",
+      "Before taking office as president, Buchanan intervened with the Supreme Court case of Dred Scott v.",
+      "Buchanan honored his pledge to serve only one term and supported his vice president John C. Breckinridge's unsuccessful candidacy in the 1860 presidential election.",
+      "Buchanan supported the Corwin Amendment in an effort to reconcile the country."
+    ],
+    "party": "Democratic",
+    "years_in_office": "1857–1861",
+    "sort_order": 15,
+    "source_url": "https://en.wikipedia.org/wiki/James_Buchanan"
+  },
+  {
+    "name": "Abraham Lincoln",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/330px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 16th president of the United States. He led the United States through the American Civil War, defeating the Confederacy and playing a major role in the abolition of slavery.",
+    "answer": "Abraham Lincoln",
+    "details": "Abraham Lincoln (February 12, 1809 – April 15, 1865) was the 16th president of the United States, from 1861 until his assassination in 1865. He led the United States through the American Civil War, defeating the Confederacy and playing a major role in the abolition of slavery.",
+    "highlights": [
+      "Angered by the Kansas–Nebraska Act of 1854, which opened the territories to slavery, he became a leader of the new Republican Party.",
+      "Lincoln won the 1860 presidential election, becoming the first Republican president.",
+      "He suspended the writ of habeas corpus in April 1861, an action that Chief Justice Roger Taney found in Ex parte Merryman that only Congress could do, and he averted war with Britain by defusing the Trent Affair.",
+      "On January 1, 1863, he issued the Emancipation Proclamation, which declared the slaves in the states \"in rebellion\" to be free.",
+      "On April 14, 1865, five days after the Confederate surrender at Appomattox, Lincoln was fatally shot by John Wilkes Booth at Ford's Theatre in Washington, D.C., becoming the first U.S. president to be assassinated."
+    ],
+    "party": "Republican",
+    "years_in_office": "1861–1865",
+    "sort_order": 16,
+    "source_url": "https://en.wikipedia.org/wiki/Abraham_Lincoln"
+  },
+  {
+    "name": "Andrew Johnson",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Andrew_Johnson_photo_portrait_head_and_shoulders_%283x4_cropped%29.jpg/330px-Andrew_Johnson_photo_portrait_head_and_shoulders_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 17th president of the United States. The 16th vice president, he assumed the presidency following the assassination of Abraham Lincoln.",
+    "answer": "Andrew Johnson",
+    "details": "Andrew Johnson (December 29, 1808 – July 31, 1875) was the 17th president of the United States, serving from 1865 to 1869. The 16th vice president, he assumed the presidency following the assassination of Abraham Lincoln. Johnson was a War Democrat who ran with Lincoln on the National Union Party ticket in the 1864 presidential election, coming to office as the American Civil War concluded. Johnson favored quick restoration of the seceded states to the Union without protection for the newly freed people who were formerly enslaved, as well as pardoning ex-Confederates. This led to conflict with the Republican Party-dominated U.S. Congress, culminating in his impeachment by the House of Representatives in 1868. He was acquitted in the Senate by one vote.",
+    "highlights": [
+      "Johnson implemented his own form of Presidential Reconstruction, a series of proclamations directing the seceded states to hold conventions and elections to reform their civil governments.",
+      "Johnson vetoed their bills, and Congressional Republicans overrode him, setting a pattern for the remainder of his presidency.",
+      "Johnson opposed the Fourteenth Amendment to the U.S. Constitution, which gave citizenship to former slaves.",
+      "He persisted in trying to dismiss the Secretary of War, Edwin Stanton, but ended up being impeached by the House of Representatives and narrowly avoided conviction in the Senate.",
+      "Johnson returned to Tennessee after his presidency and gained some vindication when he was elected to the Senate in 1875, making him the only former president to serve in the Senate."
+    ],
+    "party": "National Union",
+    "years_in_office": "1865–1869",
+    "sort_order": 17,
+    "source_url": "https://en.wikipedia.org/wiki/Andrew_Johnson"
+  },
+  {
+    "name": "Ulysses S. Grant",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Ulysses_S_Grant_by_Brady_c1870-restored_%283x4_cropped%29.jpg/330px-Ulysses_S_Grant_by_Brady_c1870-restored_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 18th president of the United States. He led the army to victory in the American Civil War in 1865.",
+    "answer": "Ulysses S. Grant",
+    "details": "Ulysses S. Grant (born Hiram Ulysses Grant; April 27, 1822 – July 23, 1885) was the 18th president of the United States, serving from 1869 to 1877, and was the Commanding General of the Union Army. He led the army to victory in the American Civil War in 1865.",
+    "highlights": [
+      "A war hero, drawn in by his sense of duty, Grant was unanimously nominated by the Republican Party and elected president in 1868.",
+      "As president, Grant stabilized the post-war economy, supported Reconstruction and the Fifteenth Amendment, and prosecuted the Ku Klux Klan.",
+      "An effective civil rights executive, Grant signed a bill to create the United States Department of Justice and worked with Radical Republicans to protect African Americans.",
+      "In 1871, he created the first Civil Service Commission.",
+      "Leaving office in 1877, Grant undertook a world tour, becoming the first president to circumnavigate the world."
+    ],
+    "party": "Republican",
+    "years_in_office": "1869–1877",
+    "sort_order": 18,
+    "source_url": "https://en.wikipedia.org/wiki/Ulysses_S._Grant"
+  },
+  {
+    "name": "Rutherford B. Hayes",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/President_Rutherford_Hayes_1870_-_1880_%283x4_cropped%29.jpg/330px-President_Rutherford_Hayes_1870_-_1880_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 19th president of the United States. He served as Cincinnati's city solicitor from 1858 to 1861 and was known as a staunch abolitionist who defended refugee slaves in court proceedings.",
+    "answer": "Rutherford B. Hayes",
+    "details": "Rutherford Birchard Hayes ( ; October 4, 1822 – January 17, 1893) was the 19th president of the United States, serving from 1877 to 1881. He served as Cincinnati's city solicitor from 1858 to 1861 and was known as a staunch abolitionist who defended refugee slaves in court proceedings. At the start of the Civil War, Hayes left a fledgling political career to join the Union army. He was wounded five times, most seriously at the Battle of South Mountain in 1862. Hayes earned a reputation for bravery in combat, rising in the ranks to serve as brevet major general. After the war, he was a prominent member of the \"Half-Breed\" faction of the Republican Party. Hayes served in Congress from 1865 to 1867 and was elected governor of Ohio, serving two consecutive terms from 1868 to 1872 and half of a third two-year term from 1876 to 1877 before his swearing-in as president.",
+    "highlights": [
+      "Upon election, Hayes pledged to serve only one term.",
+      "One of the defining events of his presidency was the Great Railroad Strike of 1877, which Hayes resolved by calling in the U.S. Army against the railroad workers.",
+      "As president, Hayes implemented modest civil service reforms that laid the groundwork for further reform in the 1880s and 1890s.",
+      "He vetoed the Bland–Allison Act of 1878, which put silver money into circulation and raised nominal prices, but Congress overrode his veto.",
+      "His policy toward western Native Americans anticipated the assimilationist program of the Dawes Act of 1887."
+    ],
+    "party": "Republican",
+    "years_in_office": "1877–1881",
+    "sort_order": 19,
+    "source_url": "https://en.wikipedia.org/wiki/Rutherford_B._Hayes"
+  },
+  {
+    "name": "James A. Garfield",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/James_Abram_Garfield%2C_photo_portrait_seated_%283x4_cropped_b%29.jpg/330px-James_Abram_Garfield%2C_photo_portrait_seated_%283x4_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 20th president of the United States. A preacher, lawyer, and Civil War general, _____ served nine terms in the United States House of Representatives and is the only sitting member of the House to be elected president.",
+    "answer": "James A. Garfield",
+    "details": "James Abram Garfield (November 19, 1831 – September 19, 1881) was the 20th president of the United States, serving from March 1881 until his death in September that year after being shot in July. A preacher, lawyer, and Civil War general, Garfield served nine terms in the United States House of Representatives and is the only sitting member of the House to be elected president. Before he ran for president, the Ohio General Assembly had elected him to the U.S. Senate, a position he declined upon becoming president-elect.",
+    "highlights": [
+      "He was elected as a Republican member of the Ohio State Senate in 1859, serving until 1861.",
+      "Garfield opposed Confederate secession, was a major general in the Union Army during the American Civil War, and fought in the battles of Middle Creek, Shiloh, and Chickamauga.",
+      "In the 1880 presidential election, he conducted a low-key front porch campaign and narrowly defeated the Democratic nominee, Winfield Scott Hancock.",
+      "Garfield's accomplishments as president included his assertion of presidential authority against senatorial courtesy in executive appointments, a purge of corruption in the Post Office, and his appointment of a Supreme Court justice.",
+      "He also proposed substantial civil service reforms, which were passed by Congress in 1883 as the Pendleton Civil Service Reform Act and signed into law by his successor, Chester A. Arthur."
+    ],
+    "party": "Republican",
+    "years_in_office": "1881",
+    "sort_order": 20,
+    "source_url": "https://en.wikipedia.org/wiki/James_A._Garfield"
+  },
+  {
+    "name": "Chester A. Arthur",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Chester_A._Arthur_by_Abraham_Bogardus_%28cropped%29_%282%29.jpg/330px-Chester_A._Arthur_by_Abraham_Bogardus_%28cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 21st president of the United States. A Republican from New York, he served as the 20th vice president under President James A. Garfield in 1881, assuming the presidency after Garfield's assassination.",
+    "answer": "Chester A. Arthur",
+    "details": "Chester Alan Arthur (October 5, 1829 – November 18, 1886) was the 21st president of the United States, serving from 1881 to 1885. A Republican from New York, he served as the 20th vice president under President James A. Garfield in 1881, assuming the presidency after Garfield's assassination. Arthur's administration saw the largest expansion of the U.S. Navy, the end of the so-called \"spoils system\", and the implementation of harsher restrictions for migrants entering from abroad.",
+    "highlights": [
+      "As president, Arthur presided over the rebirth of the U.S. Navy, but he was criticized for failing to alleviate the federal budget surplus which had been accumulating since the end of the Civil War.",
+      "Arthur vetoed the first version of the 1882 Chinese Exclusion Act, arguing that its twenty-year ban on Chinese immigrants to the United States violated the Burlingame Treaty, but he signed a second version, which included a ten-year ban.",
+      "He also enforced the Immigration Act of 1882 to impose more restrictions on immigrants and the Tariff of 1883 to attempt to reduce tariffs.",
+      "Arthur signed into law the Pendleton Civil Service Reform Act of 1883, which came as a surprise to reformers who held a negative opinion of Arthur as a Stalwart and product of Conkling's organization.",
+      "Arthur's failing health and political temperament combined to make his administration less active than a modern presidency, yet he earned praise among contemporaries for his solid performance in office."
+    ],
+    "party": "Republican",
+    "years_in_office": "1881–1885",
+    "sort_order": 21,
+    "source_url": "https://en.wikipedia.org/wiki/Chester_A._Arthur"
+  },
+  {
+    "name": "Grover Cleveland",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Grover_Cleveland_by_Charles_Milton_Bell_color_change_%283x4_cropped_b%29.jpg/330px-Grover_Cleveland_by_Charles_Milton_Bell_color_change_%283x4_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 22nd and 24th president of the United States. He was the first Democrat elected president after the American Civil War and the first U.S. president to serve nonconsecutive terms.",
+    "answer": "Grover Cleveland",
+    "details": "Stephen Grover Cleveland (March 18, 1837 – June 24, 1908) was the 22nd and 24th president of the United States, serving from 1885 to 1889 and from 1893 to 1897. He was the first Democrat elected president after the American Civil War and the first U.S. president to serve nonconsecutive terms.",
+    "highlights": [
+      "He led the Bourbon Democrats, a pro-business movement opposed to high tariffs, free silver, inflation, imperialism, and subsidies to businesses, farmers, or veterans.",
+      "During his first presidency, Cleveland signed the Interstate Commerce Act of 1887, which made the railroad industry the first industry subject to federal regulation by a regulatory body, and the Dawes Act…",
+      "This policy led to Native Americans ceding control of about two-thirds of their land between 1887 and 1934.",
+      "An anti-imperialist, Cleveland opposed the push to annex Hawaii, launched an investigation into the 1893 coup against Queen Liliʻuokalani, and called for her restoration.",
+      "Many voters blamed the Democrats, opening the way for a Republican landslide in 1894 and for the agrarian and free silver (silverite) seizure of the Democratic Party at the 1896 Democratic convention."
+    ],
+    "party": "Democratic",
+    "years_in_office": "1885–1889, 1893–1897",
+    "sort_order": 22,
+    "source_url": "https://en.wikipedia.org/wiki/Grover_Cleveland"
+  },
+  {
+    "name": "Benjamin Harrison",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896_%284x5_cropped%29.jpg/330px-Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 23rd president of the United States. He was a member of the _____ family of Virginia—a grandson of the ninth president, William Henry _____, and a great-grandson of _____ _____ V, a Founding Father.",
+    "answer": "Benjamin Harrison",
+    "details": "Benjamin Harrison (August 20, 1833 – March 13, 1901) was the 23rd president of the United States, serving from 1889 to 1893. He was a member of the Harrison family of Virginia—a grandson of the ninth president, William Henry Harrison, and a great-grandson of Benjamin Harrison V, a Founding Father. A Union army veteran and a Republican, he defeated Democratic Party incumbent Grover Cleveland to win the presidency in the 1888 United States presidential election by winning the Electoral College while losing the popular vote. He was defeated by Cleveland in the 1892 United States presidential election, becoming the first president to be succeeded in office by his predecessor.",
+    "highlights": [
+      "After moving to Indianapolis, he established himself as a prominent local attorney, Presbyterian church leader, and politician.",
+      "Hallmarks of Harrison's administration were unprecedented economic legislation, including the McKinley Tariff, which imposed historic protective trade rates, and the Sherman Antitrust Act.",
+      "Harrison also facilitated the creation of the national forest reserves through an amendment to the Land Revision Act of 1891.",
+      "During his administration six western states were admitted to the Union.",
+      "Due in large part to surplus revenues from the tariffs, federal spending reached $1 billion for the first time during his term."
+    ],
+    "party": "Republican",
+    "years_in_office": "1889–1893",
+    "sort_order": 23,
+    "source_url": "https://en.wikipedia.org/wiki/Benjamin_Harrison"
+  },
+  {
+    "name": "William McKinley",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/William_McKinley_Portrait_%283x4_cropped%29.jpg/330px-William_McKinley_Portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 25th president of the United States. A member of the Republican Party, he led a realignment that made Republicans largely dominant in the industrial states and nationwide for decades.",
+    "answer": "William McKinley",
+    "details": "William McKinley (January 29, 1843 – September 14, 1901) was the 25th president of the United States, serving from 1897 until his assassination in 1901. A member of the Republican Party, he led a realignment that made Republicans largely dominant in the industrial states and nationwide for decades. McKinley successfully led the U.S. in the Spanish–American War and oversaw a period of American expansionism, with the annexations of Hawaii, Puerto Rico, Guam, the Philippines, and American Samoa.",
+    "highlights": [
+      "McKinley was the last president to have served in the American Civil War; he was the only one to begin his service as an enlisted man and end it as a brevet major.",
+      "His 1890 McKinley Tariff was highly controversial and, together with a Democratic Party redistricting aimed at gerrymandering him out of office, led to his defeat in the Democratic landslide of 1890.",
+      "The United States annexed the independent Republic of Hawaii in 1898, and it became the Territory of Hawaii in 1900.",
+      "Still, when negotiations failed, he requested and signed Congress's declaration of war to begin the Spanish–American War of 1898, in which the United States saw a quick and decisive victory.",
+      "McKinley acquired what is now American Samoa when his administration partitioned the Samoan Islands with the empires of Britain and Germany in the Tripartite Convention, during a period of warming ties between the UK and US known as the Great Rapprochement."
+    ],
+    "party": "Republican",
+    "years_in_office": "1897–1901",
+    "sort_order": 24,
+    "source_url": "https://en.wikipedia.org/wiki/William_McKinley"
+  },
+  {
+    "name": "Theodore Roosevelt",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg/330px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 26th president of the United States. Previously serving for six months as vice president under William McKinley, _____ became president after McKinley's assassination in 1901.",
+    "answer": "Theodore Roosevelt",
+    "details": "Theodore Roosevelt Jr. (October 27, 1858 – January 6, 1919) was the 26th president of the United States, serving from 1901 to 1909. Previously serving for six months as vice president under William McKinley, Roosevelt became president after McKinley's assassination in 1901. He was 42 years old upon his first inauguration, making him the youngest person to hold the office.",
+    "highlights": [
+      "His book The Naval War of 1812 established his reputation as a historian and popular writer.",
+      "He resigned to help form and lead the Rough Riders, a unit that fought the Spanish Army in Cuba to great publicity.",
+      "The McKinley–Roosevelt ticket won a landslide victory.",
+      "As a leader of the progressive movement, Roosevelt championed his \"Square Deal\" domestic policies after taking over as president, which called for fairness for all citizens, breaking corporate trusts, regulating railroads, and pure food and drugs.",
+      "His successful efforts to end the Russo-Japanese War won him the 1906 Nobel Peace Prize, the first non-European to win a Nobel Prize."
+    ],
+    "party": "Republican",
+    "years_in_office": "1901–1909",
+    "sort_order": 25,
+    "source_url": "https://en.wikipedia.org/wiki/Theodore_Roosevelt"
+  },
+  {
+    "name": "William Howard Taft",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/William_Howard_Taft_by_Pach_Brothers_%283x4_ropped%29.jpg/330px-William_Howard_Taft_by_Pach_Brothers_%283x4_ropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 27th president of the United States. He is the only person to have held both offices.",
+    "answer": "William Howard Taft",
+    "details": "William Howard Taft (September 15, 1857 – March 8, 1930) was the 27th president of the United States from 1909 to 1913 and the tenth chief justice of the United States from 1921 to 1930. He is the only person to have held both offices.",
+    "highlights": [
+      "As president, he focused on East Asia more than European affairs and repeatedly intervened to prop up or remove Latin American governments.",
+      "His administration was filled with conflict between the Republican Party's conservative wing, with which Taft often sympathized, and its progressive wing, towards which Roosevelt increasingly gravitated.",
+      "The split left Taft with little chance of reelection, and he took only Utah and Vermont in his loss to Democratic nominee Woodrow Wilson.",
+      "His work towards administrative reform of the court culminated in the Judiciary Act of 1925.",
+      "In poor health, he resigned in February 1930, and died the following month."
+    ],
+    "party": "Republican",
+    "years_in_office": "1909–1913",
+    "sort_order": 26,
+    "source_url": "https://en.wikipedia.org/wiki/William_Howard_Taft"
+  },
+  {
+    "name": "Woodrow Wilson",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_c%29.jpg/330px-President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_c%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 28th president of the United States. He was the only Democrat to serve as president during the Progressive Era, when Republicans dominated the presidency and legislative branches.",
+    "answer": "Woodrow Wilson",
+    "details": "Thomas Woodrow Wilson (December 28, 1856 – February 3, 1924) was the 28th president of the United States, serving from 1913 to 1921. He was the only Democrat to serve as president during the Progressive Era, when Republicans dominated the presidency and legislative branches. As president, Wilson made significant economic reforms and led the United States through World War I. He was the leading architect of the League of Nations, and his stance on foreign policy came to be known as Wilsonian idealism.",
+    "highlights": [
+      "In the 1912 election, Wilson defeated the incumbent Republican president, William Howard Taft, and the third-party nominee and former president Theodore Roosevelt, becoming the first Southerner to win the presidency since Zachary Taylor in the 1848 election.",
+      "During his first year as president, Wilson authorized the widespread imposition of racial segregation inside the federal bureaucracy, and his opposition to women's suffrage drew protests.",
+      "His first major priority was the Revenue Act of 1913, which began the modern income tax, and the Federal Reserve Act, which created the Federal Reserve System.",
+      "At the outbreak of World War I in 1914, the U.S. declared neutrality as Wilson tried to negotiate peace between the Allied and Central Powers.",
+      "Meanwhile, his policies alienated German- and Irish-American Democrats and the Republicans won a landslide in the 1920 election."
+    ],
+    "party": "Democratic",
+    "years_in_office": "1913–1921",
+    "sort_order": 27,
+    "source_url": "https://en.wikipedia.org/wiki/Woodrow_Wilson"
+  },
+  {
+    "name": "Warren G. Harding",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Warren_G_Harding-Harris_%26_Ewing_%283x4_cropped%29.jpg/330px-Warren_G_Harding-Harris_%26_Ewing_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 29th president of the United States. A member of the Republican Party, he was one of the most popular presidents at the time of his death.",
+    "answer": "Warren G. Harding",
+    "details": "Warren Gamaliel Harding (November 2, 1865 – August 2, 1923) was the 29th president of the United States, serving from 1921 until his death in 1923. A member of the Republican Party, he was one of the most popular presidents at the time of his death. After that, a number of scandals were exposed that greatly damaged his reputation.",
+    "highlights": [
+      "He was defeated for governor in 1910, but was elected to the United States Senate in 1914—the state's first direct election for that office.",
+      "He conducted a front porch campaign, remaining mostly in Marion and allowing people to come to him.",
+      "He promised a return to normalcy of the pre–World War I period, and defeated Democratic nominee James M. Cox in a landslide, becoming the first sitting senator to be elected president.",
+      "A major foreign policy achievement came with the Washington Naval Conference of 1921–1922, in which the world's major naval powers agreed on a naval limitations program that lasted a decade.",
+      "In the subsequent decades, some historians have begun to reassess Harding's record in office."
+    ],
+    "party": "Republican",
+    "years_in_office": "1921–1923",
+    "sort_order": 28,
+    "source_url": "https://en.wikipedia.org/wiki/Warren_G._Harding"
+  },
+  {
+    "name": "Calvin Coolidge",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/President_Calvin_Coolidge%2C_1924_head-and-shoulders_portrait%2C_facing_slightly_right_%282%29.jpeg/330px-President_Calvin_Coolidge%2C_1924_head-and-shoulders_portrait%2C_facing_slightly_right_%282%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 30th president of the United States. A Republican lawyer from Massachusetts, he served from 1921 to 1923 as the 29th vice president, under President Warren G. Harding, and from 1919 to 1921 as the 48th governor of Massachusetts.",
+    "answer": "Calvin Coolidge",
+    "details": "Calvin Coolidge (born John Calvin Coolidge Jr.; KOOL-ij; July 4, 1872 – January 5, 1933) was the 30th president of the United States, serving from 1923 to 1929. A Republican lawyer from Massachusetts, he served from 1921 to 1923 as the 29th vice president, under President Warren G. Harding, and from 1919 to 1921 as the 48th governor of Massachusetts. Coolidge gained a reputation as a small-government conservative, with a taciturn personality and dry sense of humor that earned him the nickname \"Silent Cal\".",
+    "highlights": [
+      "He rose up the ranks of Massachusetts politics and was elected governor in 1918.",
+      "As governor, Coolidge ran on the record of fiscal conservatism, strong support for women's suffrage, and vague opposition to Prohibition.",
+      "The following year, the Republican Party nominated Coolidge as the running mate to Senator Warren G. Harding in the 1920 presidential election, which they won in a landslide.",
+      "During his presidency, Coolidge restored public confidence in the White House after the Harding administration's many scandals.",
+      "Coolidge chose not to run again in 1928, remarking that ten years as president would be \"longer than any other man has had it—too long!\""
+    ],
+    "party": "Republican",
+    "years_in_office": "1923–1929",
+    "sort_order": 29,
+    "source_url": "https://en.wikipedia.org/wiki/Calvin_Coolidge"
+  },
+  {
+    "name": "Herbert Hoover",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Unsuccessful_1932.jpg/330px-Unsuccessful_1932.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 31st president of the United States. _____'s term as president was dominated by the Great Depression.",
+    "answer": "Herbert Hoover",
+    "details": "Herbert Clark Hoover (August 10, 1874 – October 20, 1964) was the 31st president of the United States, serving from 1929 to 1933. Hoover's term as president was dominated by the Great Depression. His ineffectual response to the growing economic calamity made him widely unpopular, and he lost reelection to Franklin D. Roosevelt in the 1932 United States presidential election.",
+    "highlights": [
+      "In 1895, Hoover became one of the first graduates of the new Stanford University.",
+      "He won the Republican nomination in the 1928 presidential election and defeated Democratic candidate Al Smith in a landslide.",
+      "However, during his first year in office, the stock market crashed, signaling the onset of the Great Depression.",
+      "His response, including the Mexican Repatriation and the Smoot–Hawley Tariff Act, was widely seen as timid and inadequate.",
+      "As the Depression deepened year after year and Hoovervilles formed around the country, he lost in a landslide to Democratic nominee Franklin D. Roosevelt in the 1932 presidential election."
+    ],
+    "party": "Republican",
+    "years_in_office": "1929–1933",
+    "sort_order": 30,
+    "source_url": "https://en.wikipedia.org/wiki/Herbert_Hoover"
+  },
+  {
+    "name": "Franklin D. Roosevelt",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/FDR-1944-Campaign-Portrait_%28cropped%29.jpg/330px-FDR-1944-Campaign-Portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 32nd president of the United States. He is the longest-serving US president and the only one to have served more than two terms.",
+    "answer": "Franklin D. Roosevelt",
+    "details": "Franklin Delano Roosevelt (January 30, 1882 – April 12, 1945), also known as FDR, was the 32nd president of the United States, serving from 1933 until his death in 1945. He is the longest-serving US president and the only one to have served more than two terms. His first two terms centered on combating the Great Depression, while his third and fourth focused on US involvement in World War II. A member of the Democratic Party, Roosevelt served in the New York State Senate from 1911 to 1913 and as the 44th governor of New York from 1929 to 1932.",
+    "highlights": [
+      "Roosevelt defeated President Herbert Hoover in a landslide victory in the 1932 presidential election.",
+      "During his first 100 days as president, Roosevelt initiated the program to implement the New Deal, built the New Deal coalition, and realigned American politics into the Fifth Party System.",
+      "He created programs to provide relief to the unemployed and farmers while seeking economic recovery with the National Recovery Administration and other programs.",
+      "He was re-elected in 1936, in one of the largest landslide victories in American history.",
+      "Major surviving programs and legislation implemented under Roosevelt include the Securities and Exchange Commission, the National Labor Relations Act, and Social Security."
+    ],
+    "party": "Democratic",
+    "years_in_office": "1933–1945",
+    "sort_order": 31,
+    "source_url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+  },
+  {
+    "name": "Harry S. Truman",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/330px-TRUMAN_58-766-06_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 33rd president of the United States. As the 34th vice president in 1945, he assumed the presidency upon the death of Franklin D. Roosevelt in April.",
+    "answer": "Harry S. Truman",
+    "details": "Harry S. Truman (May 8, 1884 – December 26, 1972) was the 33rd president of the United States, serving from 1945 to 1953. As the 34th vice president in 1945, he assumed the presidency upon the death of Franklin D. Roosevelt in April. Truman set up the Marshall Plan to rebuild the badly damaged economy of Western Europe. He established the Truman Doctrine and supported the founding of NATO to contain the expansion of Soviet communism. A member of the Democratic Party, he proposed numerous New Deal coalition liberal domestic reforms, but few were enacted by the conservative coalition that dominated the United States Congress.",
+    "highlights": [
+      "Only then was he told about the ongoing Manhattan Project and the atomic bomb.",
+      "Truman authorized the first and only use of nuclear weapons in war against the Japanese cities of Hiroshima and Nagasaki.",
+      "Domestically, the postwar economic challenges such as strikes and inflation created a mixed reaction over the effectiveness of his administration.",
+      "However, evidence eventually emerged that he amassed considerable wealth, some of it during his presidency.",
+      "Despite this controversy, historians consistently rank Truman in the first quartile of U.S. presidents."
+    ],
+    "party": "Democratic",
+    "years_in_office": "1945–1953",
+    "sort_order": 32,
+    "source_url": "https://en.wikipedia.org/wiki/Harry_S._Truman"
+  },
+  {
+    "name": "Dwight D. Eisenhower",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/330px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 34th president of the United States. In his previous military career, he commanded the Allied Expeditionary Force during World War II, including in Operation Torch in North Africa and Operation Overlord on D-Day in Normandy.",
+    "answer": "Dwight D. Eisenhower",
+    "details": "Dwight David \"Ike\" Eisenhower (born David Dwight Eisenhower; October 14, 1890 – March 28, 1969) was the 34th president of the United States, serving from 1953 to 1961. In his previous military career, he commanded the Allied Expeditionary Force during World War II, including in Operation Torch in North Africa and Operation Overlord on D-Day in Normandy. For his distinguished service in the U.S. Army, Eisenhower was honored with the five-star rank of General of the Army.",
+    "highlights": [
+      "After the war ended in Europe, he served as military governor of the American-occupied zone of Germany (1945), as Army Chief of Staff (1945–1948), president of Columbia University (1948–1953), and as the first supreme commander of NATO (1951–1952).",
+      "Eisenhower won that year's election and the 1956 election in landslides, both times defeating Adlai Stevenson II. Eisenhower's main goals in office were to contain the spread of communism and reduce federal deficits.",
+      "His administration provided aid to help the French try to fight Vietnamese Communists in the First Indochina War.",
+      "He signed the Civil Rights Act of 1957 and sent Army troops to enforce federal court orders which integrated schools in Little Rock, Arkansas.",
+      "His administration undertook the development and construction of the Interstate Highway System, which remains the largest construction of roadways in American history."
+    ],
+    "party": "Republican",
+    "years_in_office": "1953–1961",
+    "sort_order": 33,
+    "source_url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+  },
+  {
+    "name": "John F. Kennedy",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/John_F._Kennedy%2C_White_House_color_photo_portrait_%283x4%29_%28cropped%29.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait_%283x4%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 35th president of the United States. He was the youngest person elected president, at 43 years, and the first Catholic president.",
+    "answer": "John F. Kennedy",
+    "details": "John Fitzgerald Kennedy (May 29, 1917 – November 22, 1963), also known as JFK, was the 35th president of the United States, serving from 1961 until his assassination in 1963. He was the youngest person elected president, at 43 years, and the first Catholic president. Kennedy served at the height of the Cold War, and the majority of his foreign policy concerned relations with the Soviet Union and Cuba. A member of the Democratic Party, Kennedy represented Massachusetts in both houses of the United States Congress before his presidency.",
+    "highlights": [
+      "His campaign gained momentum after the first televised presidential debates in American history, and he was elected president, narrowly defeating Republican opponent Richard Nixon, the incumbent vice president.",
+      "He increased the number of American military advisers in South Vietnam, and the Strategic Hamlet Program began during his presidency.",
+      "In 1963, Kennedy signed the first nuclear weapons treaty.",
+      "He supported the civil rights movement but was only somewhat successful in passing his New Frontier domestic policies.",
+      "On November 22, 1963, Kennedy was assassinated in Dallas."
+    ],
+    "party": "Democratic",
+    "years_in_office": "1961–1963",
+    "sort_order": 34,
+    "source_url": "https://en.wikipedia.org/wiki/John_F._Kennedy"
+  },
+  {
+    "name": "Lyndon B. Johnson",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/37_Lyndon_Johnson_3x4.jpg/330px-37_Lyndon_Johnson_3x4.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 36th president of the United States. A member of the Democratic Party, he served as the 37th vice president under President John F. Kennedy, assuming the office upon Kennedy's assassination.",
+    "answer": "Lyndon B. Johnson",
+    "details": "Lyndon Baines Johnson (August 27, 1908 – January 22, 1973), also known as LBJ, was the 36th president of the United States, serving from 1963 to 1969. A member of the Democratic Party, he served as the 37th vice president under President John F. Kennedy, assuming the office upon Kennedy's assassination. Johnson also served in both houses of the U.S. Congress, where he gained a reputation as a talented and persuasive legislator.",
+    "highlights": [
+      "In 1948, he was controversially declared the winner in the Democratic primary for the U.S. Senate election in Texas before winning the general election.",
+      "Johnson assumed the presidency in 1963, after Kennedy was assassinated.",
+      "The following year, Johnson won reelection to the presidency in a landslide, winning the largest share of the popular vote for the Democratic Party in history.",
+      "As part of these efforts, Johnson signed the Social Security Amendments of 1965, which resulted in the creation of Medicare and Medicaid.",
+      "Johnson made the Apollo Moon landing program a national priority; enacted the Higher Education Act of 1965 which established federally insured student loans; and signed the Immigration and Nationality Act of 1965 which laid the groundwork for U.S. immigration policy today."
+    ],
+    "party": "Democratic",
+    "years_in_office": "1963–1969",
+    "sort_order": 35,
+    "source_url": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson"
+  },
+  {
+    "name": "Richard Nixon",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/330px-Richard_Nixon_presidential_portrait_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 37th president of the United States. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961.",
+    "answer": "Richard Nixon",
+    "details": "Richard Milhous Nixon (January 9, 1913 – April 22, 1994) was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.",
+    "highlights": [
+      "His visit to China in 1972 led to diplomatic relations between the two nations, and he finalized the Anti-Ballistic Missile Treaty with the Soviet Union.",
+      "During the course of his first term, he enacted many progressive environmental policy shifts, such as creating the Environmental Protection Agency and passing laws, including the Endangered Species and Clean Air Acts.",
+      "In addition to implementing the Twenty-sixth Amendment that lowered the voting age from 21 to 18, he ended the direct international convertibility of the U.S. dollar to gold in 1971, effectively taking the United States off the gold standard.",
+      "He also imposed wage and price controls for 90 days, launched the war on cancer and the war on drugs, passed the Controlled Substances Act, and presided over the end of the Space Race by overseeing the Apollo 11 Moon landing.",
+      "He was re-elected in 1972, when he defeated George McGovern in one of the largest landslide victories in American history."
+    ],
+    "party": "Republican",
+    "years_in_office": "1969–1974",
+    "sort_order": 36,
+    "source_url": "https://en.wikipedia.org/wiki/Richard_Nixon"
+  },
+  {
+    "name": "Gerald Ford",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Gerald_Ford_presidential_portrait_%28cropped_3%29.jpg/330px-Gerald_Ford_presidential_portrait_%28cropped_3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 38th president of the United States. He assumed the presidency after the resignation of Richard Nixon, under whom he served as the 40th vice president from 1973 to 1974 after the resignation of Spiro Agnew, making him the only person to be both vice president and president without being elected to either office.",
+    "answer": "Gerald Ford",
+    "details": "Gerald Rudolph Ford Jr. (born Leslie Lynch King Jr.; July 14, 1913 – December 26, 2006) was the 38th president of the United States, serving from 1974 to 1977. He assumed the presidency after the resignation of Richard Nixon, under whom he served as the 40th vice president from 1973 to 1974 after the resignation of Spiro Agnew, making him the only person to be both vice president and president without being elected to either office. A member of the Republican Party, Ford previously served in the United States House of Representatives from 1949 to 1973.",
+    "highlights": [
+      "In December 1973, two months after the resignation of vice president Agnew, Ford was appointed to the vice presidency, becoming the first person appointed to become vice president under the terms of the twenty-fifth amendment.",
+      "In one of his most controversial acts, he granted a presidential pardon to Nixon for his role in the Watergate scandal.",
+      "Ford signed the Helsinki Accords, which marked a move toward détente in the Cold War.",
+      "With the collapse of South Vietnam eight months into his presidency, U.S. involvement in the Vietnam War essentially ended.",
+      "Ford remains the only person to serve as president without winning a presidential election for president or vice president."
+    ],
+    "party": "Republican",
+    "years_in_office": "1974–1977",
+    "sort_order": 37,
+    "source_url": "https://en.wikipedia.org/wiki/Gerald_Ford"
+  },
+  {
+    "name": "Jimmy Carter",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Jimmy_Carter_presidential_portrait_%28cropped_1%29.jpg/330px-Jimmy_Carter_presidential_portrait_%28cropped_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 39th president of the United States. A member of the Democratic Party, _____ served as the 76th governor of Georgia from 1971 to 1975 and in the Georgia State Senate from 1963 to 1967.",
+    "answer": "Jimmy Carter",
+    "details": "James Earl Carter Jr. (October 1, 1924 – December 29, 2024) was an American politician and humanitarian who served as the 39th president of the United States from 1977 to 1981. A member of the Democratic Party, Carter served as the 76th governor of Georgia from 1971 to 1975 and in the Georgia State Senate from 1963 to 1967. He lived longer than any other president in U.S. history, reaching age 100.",
+    "highlights": [
+      "He was active in the civil rights movement, then served as a state senator and the 76th governor, one of the first of the \"New South governors\" committed to desegregation.",
+      "As president, Carter pardoned all Vietnam draft evaders and negotiated major foreign policy agreements, including the Camp David Accords, the Panama Canal Treaties, and the second round of Strategic Arms Limitation Talks, and he established diplomatic relations with China.",
+      "He signed bills that created the Departments of Energy and Education.",
+      "Carter sought reelection in 1980, defeating a primary challenge by Senator Ted Kennedy, but lost the election to Republican nominee Ronald Reagan in a landslide.",
+      "After Carter's presidential term ended, he established the Carter Center to promote human rights, earning him the 2002 Nobel Peace Prize."
+    ],
+    "party": "Democratic",
+    "years_in_office": "1977–1981",
+    "sort_order": 38,
+    "source_url": "https://en.wikipedia.org/wiki/Jimmy_Carter"
+  },
+  {
+    "name": "Ronald Reagan",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Official_Portrait_of_President_Reagan_1981-cropped.jpg/330px-Official_Portrait_of_President_Reagan_1981-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 40th president of the United States. A member of the Republican Party, he became an important figure in the American conservative movement.",
+    "answer": "Ronald Reagan",
+    "details": "Ronald Wilson Reagan (February 6, 1911 – June 5, 2004) was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+    "highlights": [
+      "Following his loss to Gerald Ford in the 1976 Republican Party presidential primaries, Reagan won the Republican Party's nomination and then obtained a landslide victory over President Jimmy Carter in the 1980 presidential election.",
+      "In his first term as president, Reagan began implementing \"Reaganomics\", a policy involving economic deregulation and cuts to both taxes and government spending during a period of stagflation.",
+      "On the world stage, he escalated the arms race, increased military spending, shifted Cold War policy away from détente, and ordered the 1983 invasion of Grenada.",
+      "Other notable events during Reagan's first term included his survival of an assassination attempt, a well-publicized fight with public-sector labor unions, an expansion of the war on drugs, and his administration's slow response to the AIDS epidemic.",
+      "In the 1984 presidential election, he was elected to a second term by defeating former vice president Walter Mondale in one of the largest landslide victories in American history."
+    ],
+    "party": "Republican",
+    "years_in_office": "1981–1989",
+    "sort_order": 39,
+    "source_url": "https://en.wikipedia.org/wiki/Ronald_Reagan"
+  },
+  {
+    "name": "George H. W. Bush",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/George_H._W._Bush_presidential_portrait_%28cropped_2%29.jpg/330px-George_H._W._Bush_presidential_portrait_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 41st president of the United States. A member of the Republican Party, he served as the 43rd vice president under President Ronald Reagan.",
+    "answer": "George H. W. Bush",
+    "details": "George Herbert Walker Bush (June 12, 1924 – November 30, 2018) was the 41st president of the United States, serving from 1989 to 1993. A member of the Republican Party, he served as the 43rd vice president under President Ronald Reagan. His son, George W. Bush, was the 43rd president.",
+    "highlights": [
+      "He enlisted in the U.S. Navy Reserve on his 18th birthday, flying 58 combat missions during World War II and earning the Distinguished Flying Cross.",
+      "He ran unsuccessfully for the United States Senate in 1964 and 1970, but was elected to represent Texas in the United States House of Representatives in 1966.",
+      "Though the agreement was not ratified until after he left office, Bush negotiated and signed the North American Free Trade Agreement, which created a trade bloc consisting of the United States, Canada and Mexico.",
+      "He championed and signed three pieces of bipartisan legislation in 1990, the Americans with Disabilities Act, the Immigration Act and the Clean Air Act Amendments.",
+      "Bush lost the 1992 presidential election to Democrat Bill Clinton following an economic recession, his turnaround on his tax promise, and the decreased emphasis of foreign policy in a post–Cold War political climate."
+    ],
+    "party": "Republican",
+    "years_in_office": "1989–1993",
+    "sort_order": 40,
+    "source_url": "https://en.wikipedia.org/wiki/George_H._W._Bush"
+  },
+  {
+    "name": "Bill Clinton",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/330px-Bill_Clinton.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 42nd president of the United States. A member of the Democratic Party, he previously served as the attorney general of Arkansas from 1977 to 1979, the governor of Arkansas from 1979 to 1981, and governor again from 1983 to 1992.",
+    "answer": "Bill Clinton",
+    "details": "William Jefferson Clinton (né Blythe III; born August 19, 1946) is an American retired politician and lawyer who served as the 42nd president of the United States from 1993 to 2001. A member of the Democratic Party, he previously served as the attorney general of Arkansas from 1977 to 1979, the governor of Arkansas from 1979 to 1981, and governor again from 1983 to 1992. His centrist Third Way political philosophy became known as Clintonism, which defined his presidency and the succeeding decades of Democratic Party into the 21st century.",
+    "highlights": [
+      "Clinton presided over the longest American period of peacetime economic expansion at the time.",
+      "He signed into law the North American Free Trade Agreement, the Brady Handgun Violence Prevention Act and the Violent Crime Control and Law Enforcement Act but failed to pass his plan for national health care reform…",
+      "In foreign policy, Clinton ordered U.S. military intervention in the Bosnian and Kosovo wars, eventually signing the Dayton Peace agreement.",
+      "This scandal escalated throughout the year, culminating in December when Clinton was impeached by the House of Representatives, becoming the first U.S. president to be impeached since Andrew Johnson.",
+      "During the last three years of Clinton's presidency, the Congressional Budget Office reported a budget surplus—the first and only such surplus since 1969."
+    ],
+    "party": "Democratic",
+    "years_in_office": "1993–2001",
+    "sort_order": 41,
+    "source_url": "https://en.wikipedia.org/wiki/Bill_Clinton"
+  },
+  {
+    "name": "George W. Bush",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/330px-George-W-Bush.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 43rd president of the United States. A member of the Republican Party, he served as the 46th governor of Texas from 1995 to 2000.",
+    "answer": "George W. Bush",
+    "details": "George Walker Bush (born July 6, 1946) is an American former politician, businessman, and U.S. Air Force veteran who served as the 43rd president of the United States from 2001 to 2009. A member of the Republican Party, he served as the 46th governor of Texas from 1995 to 2000. He is the eldest son of George H. W. Bush, the 41st president of the United States.",
+    "highlights": [
+      "In his first term, Bush signed a major tax-cut program and an education-reform bill, the No Child Left Behind Act.",
+      "He pushed for socially conservative efforts such as the Partial-Birth Abortion Ban Act, restrictions on same-sex marriage, and faith-based initiatives.",
+      "The September 11 attacks during 2001 decisively reshaped his administration, resulting in the start of the war on terror and the creation of the Department of Homeland Security.",
+      "He signed the Patriot Act, expanding surveillance powers for suspected terrorists.",
+      "Bush later signed the Medicare Modernization Act, which created Medicare Part D. Bush was re-elected in 2004, winning the popular vote against Democratic nominee John Kerry."
+    ],
+    "party": "Republican",
+    "years_in_office": "2001–2009",
+    "sort_order": 42,
+    "source_url": "https://en.wikipedia.org/wiki/George_W._Bush"
+  },
+  {
+    "name": "Barack Obama",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/President_Barack_Obama%2C_2012_portrait_crop.jpg/330px-President_Barack_Obama%2C_2012_portrait_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 44th president of the United States. A member of the Democratic Party, he was the first African American to serve as president.",
+    "answer": "Barack Obama",
+    "details": "Barack Hussein Obama II (born August 4, 1961) is an American retired politician who served as the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African American to serve as president. Obama represented Illinois in the United States Senate from 2005 to 2008 and served as an Illinois state senator from 1997 to 2004.",
+    "highlights": [
+      "Obama was awarded the 2009 Nobel Peace Prize for efforts in international diplomacy, a decision that drew both praise and criticism.",
+      "During his first term, his administration responded to the 2008 financial crisis with measures including the American Recovery and Reinvestment Act of 2009 to address the Great Recession; a partial extension of the Bush tax cuts; legislation to reform health care…",
+      "Obama also appointed Supreme Court justices Sonia Sotomayor and Elena Kagan, the former being the first Hispanic American on the Supreme Court.",
+      "Obama also oversaw the end of the Iraq War and ordered Operation Neptune Spear, the raid that killed Osama bin Laden, who was the leader of al-Qaeda and was responsible for the September 11 attacks.",
+      "In his second term, Obama advocated for gun control in the wake of the Sandy Hook Elementary School shooting, took steps to combat climate change by signing the Paris Agreement on climate change and an executive order to limit carbon emissions…"
+    ],
+    "party": "Democratic",
+    "years_in_office": "2009–2017",
+    "sort_order": 43,
+    "source_url": "https://en.wikipedia.org/wiki/Barack_Obama"
+  },
+  {
+    "name": "Donald Trump",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Donald_Trump_official_portrait_%283x4a%29.jpg/330px-Donald_Trump_official_portrait_%283x4a%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 45th and 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.",
+    "answer": "Donald Trump",
+    "details": "Donald John Trump (born June 14, 1946) is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.",
+    "highlights": [
+      "He rolled back environmental and business regulations, signed the Tax Cuts and Jobs Act, and appointed three Supreme Court justices.",
+      "In response to the COVID-19 pandemic in 2020, he downplayed its severity, contradicted health officials, and signed the bipartisan CARES Act.",
+      "He was impeached twice—in 2019 for abuse of power and obstruction of Congress and in 2021 for incitement of insurrection—and acquitted by the Senate both times.",
+      "In May 2024, he was found guilty in a New York state court on 34 counts of falsifying business records, making him the first U.S. president convicted of a felony.",
+      "He imposed tariffs on nearly all countries at the highest level since the Great Depression and signed the One Big Beautiful Bill Act."
+    ],
+    "party": "Republican",
+    "years_in_office": "2017–2021, 2025–present",
+    "sort_order": 44,
+    "source_url": "https://en.wikipedia.org/wiki/Donald_Trump"
+  },
+  {
+    "name": "Joe Biden",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Joe_Biden_presidential_portrait_%28cropped%29.jpg/330px-Joe_Biden_presidential_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "US Presidents",
+    "hint": "The 46th president of the United States. A member of the Democratic Party, he represented Delaware in the United States Senate from 1973 to 2009 and also served as the 47th vice president under President Barack Obama from 2009 to 2017.",
+    "answer": "Joe Biden",
+    "details": "Joseph Robinette Biden Jr. (born November 20, 1942) is an American retired politician who was the 46th president of the United States from 2021 to 2025. A member of the Democratic Party, he represented Delaware in the United States Senate from 1973 to 2009 and also served as the 47th vice president under President Barack Obama from 2009 to 2017.",
+    "highlights": [
+      "He drafted and led passage of the Violent Crime Control and Law Enforcement Act and the Violence Against Women Act.",
+      "As president, Biden signed the American Rescue Plan Act in response to the COVID-19 pandemic and recession.",
+      "During the Gaza war, he condemned the actions of Hamas, gave Israel strong military and diplomatic support, sent humanitarian aid to the Gaza Strip, and backed a temporary ceasefire proposal before his presidency ended.",
+      "After his performance in the first presidential debate, intensifying scrutiny from both political parties about his age and health led him to withdraw his candidacy.",
+      "He is the oldest living former U.S. president since the second inauguration of Donald Trump in 2025, the oldest living former U.S. vice president since Dick Cheney died in 2025, and the oldest person to have served as president."
+    ],
+    "party": "Democratic",
+    "years_in_office": "2021–2025",
+    "sort_order": 45,
+    "source_url": "https://en.wikipedia.org/wiki/Joe_Biden"
+  }
+]
